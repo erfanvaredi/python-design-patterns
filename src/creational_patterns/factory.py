@@ -1,0 +1,1 @@
+class Obj:pass
