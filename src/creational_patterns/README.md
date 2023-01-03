@@ -29,15 +29,15 @@ jupyter notebook
 
 There are several creational design patterns in Python, including:
 
-+ **Factory pattern**: The factory pattern is a creational design pattern that provides an interface for creating objects in a super class, but allows subclasses to alter the type of objects that will be created.
++ **Factory pattern**: The factory pattern is a creational design pattern that provides an interface for creating objects in a super class, but allows subclasses to alter the type of objects that will be created. ✅
 
-+ **Abstract factory pattern**: The abstract factory pattern is a creational design pattern that provides an interface for creating families of related or dependent objects without specifying their concrete classes.
++ **Abstract factory pattern**: The abstract factory pattern is a creational design pattern that provides an interface for creating families of related or dependent objects without specifying their concrete classes. ✅
 
-+ **Builder pattern**: The builder pattern is a creational design pattern that separates the construction of a complex object from its representation, allowing the same construction process to create various representations.
++ **Builder pattern**: The builder pattern is a creational design pattern that separates the construction of a complex object from its representation, allowing the same construction process to create various representations. ✅
 
-+ **Prototype pattern**: The prototype pattern is a creational design pattern that allows for the creation of new objects by copying existing objects, rather than creating new objects from scratch.
++ **Prototype pattern**: The prototype pattern is a creational design pattern that allows for the creation of new objects by copying existing objects, rather than creating new objects from scratch. ✅
 
-+ **Singleton pattern**: The singleton pattern is a creational design pattern that ensures that a class has only one instance, and provides a global access point to that instance.
++ **Singleton pattern**: The singleton pattern is a creational design pattern that ensures that a class has only one instance, and provides a global access point to that instance. ✅
 
 It is important to note that creational design patterns are not specific to Python, and many of the design patterns described above have counterparts in other programming languages.
 
