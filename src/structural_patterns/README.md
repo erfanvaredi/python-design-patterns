@@ -33,7 +33,7 @@ There are several structural design patterns in Python, including:
 
 + **Bridge pattern**: The bridge pattern is a structural design pattern that separates an abstraction from its implementation, allowing the two to vary independently. 🚧
 
-+ **Composite pattern**: The composite pattern is a structural design pattern that allows you to compose objects into tree structures and treat individual objects and compositions of objects uniformly. 🚧
++ **Composite pattern**: The composite pattern is a structural design pattern that allows you to compose objects into tree structures and treat individual objects and compositions of objects uniformly. ✅
 
 + **Decorator pattern**: The decorator pattern is a structural design pattern that allows you to add new behavior to existing objects dynamically by wrapping them in decorator objects. ✅
 
