@@ -29,17 +29,17 @@ jupyter notebook
 
 There are several structural design patterns in Python, including:
 
-+ **Adapter pattern**: The adapter pattern is a structural design pattern that allows two incompatible interfaces to work together by wrapping an interface around an existing class.
++ **Adapter pattern**: The adapter pattern is a structural design pattern that allows two incompatible interfaces to work together by wrapping an interface around an existing class. 🚧
 
-+ **Bridge pattern**: The bridge pattern is a structural design pattern that separates an abstraction from its implementation, allowing the two to vary independently.
++ **Bridge pattern**: The bridge pattern is a structural design pattern that separates an abstraction from its implementation, allowing the two to vary independently. 🚧
 
-+ **Composite pattern**: The composite pattern is a structural design pattern that allows you to compose objects into tree structures and treat individual objects and compositions of objects uniformly.
++ **Composite pattern**: The composite pattern is a structural design pattern that allows you to compose objects into tree structures and treat individual objects and compositions of objects uniformly. 🚧
 
-+ **Decorator pattern**: The decorator pattern is a structural design pattern that allows you to add new behavior to existing objects dynamically by wrapping them in decorator objects.
++ **Decorator pattern**: The decorator pattern is a structural design pattern that allows you to add new behavior to existing objects dynamically by wrapping them in decorator objects. ✅
 
-+ **Facade pattern**: The facade pattern is a structural design pattern that provides a simplified interface to a complex system, hiding the complexity behind the facade.
++ **Facade pattern**: The facade pattern is a structural design pattern that provides a simplified interface to a complex system, hiding the complexity behind the facade. 🚧
 
-+ **Proxy pattern**: The proxy pattern is a structural design pattern that provides a surrogate or placeholder object for another object and controls access to it.
++ **Proxy pattern**: The proxy pattern is a structural design pattern that provides a surrogate or placeholder object for another object and controls access to it. 🚧
 
 It is important to note that structural design patterns are not specific to Python, and many of the design patterns described above have counterparts in other programming languages.
 
