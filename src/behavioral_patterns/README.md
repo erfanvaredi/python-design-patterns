@@ -29,17 +29,17 @@ jupyter notebook
 
 There are several behavioral design patterns in Python, including:
 
-+ **Chain of responsibility pattern**: The chain of responsibility pattern is a behavioral design pattern that allows a request to be passed through a chain of objects, with each object having the opportunity to handle the request or pass it along to the next object in the chain.
++ **Chain of responsibility pattern**: The chain of responsibility pattern is a behavioral design pattern that allows a request to be passed through a chain of objects, with each object having the opportunity to handle the request or pass it along to the next object in the chain. 🚧
 
-+ **Command pattern**: The command pattern is a behavioral design pattern that allows you to encapsulate a request as an object, allowing you to separate the request from the object that handles it.
++ **Command pattern**: The command pattern is a behavioral design pattern that allows you to encapsulate a request as an object, allowing you to separate the request from the object that handles it. 🚧
 
-+ **Interpreter pattern**: The interpreter pattern is a behavioral design pattern that allows you to define a grammar for a simple language and interpret sentences in that language.
++ **Interpreter pattern**: The interpreter pattern is a behavioral design pattern that allows you to define a grammar for a simple language and interpret sentences in that language. 🚧
 
-+ **Iterator pattern**: The iterator pattern is a behavioral design pattern that allows you to access the elements of an aggregate object sequentially, without exposing the underlying representation.
++ **Iterator pattern**: The iterator pattern is a behavioral design pattern that allows you to access the elements of an aggregate object sequentially, without exposing the underlying representation. 🚧
 
-+ **Mediator pattern**: The mediator pattern is a behavioral design pattern that allows you to define an object that encapsulates how a set of objects interact, reducing the dependencies between them.
++ **Mediator pattern**: The mediator pattern is a behavioral design pattern that allows you to define an object that encapsulates how a set of objects interact, reducing the dependencies between them. 🚧
 
-+ **Observer pattern**: The observer pattern is a behavioral design pattern that allows you to define a one-to-many dependency between objects, where one object changes state and all its dependents are notified and updated automatically.
++ **Observer pattern**: The observer pattern is a behavioral design pattern that allows you to define a one-to-many dependency between objects, where one object changes state and all its dependents are notified and updated automatically. 🚧
 
 It is important to note that creational design patterns are not specific to Python, and many of the design patterns described above have counterparts in other programming languages.
 
