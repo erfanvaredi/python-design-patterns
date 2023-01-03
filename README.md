@@ -29,9 +29,9 @@ jupyter notebook
 
 For having scalable and high performance softwares and also easy to reuse codes we need to follow some of the pre-tested design patters which we will get through them step by step. In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design. There are several types of design patterns in Python, including:
 
-+ **Creational patterns**: These design patterns focus on creating objects in a flexible and efficient manner. Examples include the factory pattern and the builder pattern.
++ **Creational patterns**: These design patterns focus on creating objects in a flexible and efficient manner. Examples include the factory pattern and the builder pattern. ✅
 
-+ **Structural patterns**: These design patterns focus on how objects are composed to form larger structures. Examples include the adapter pattern and the decorator pattern.
++ **Structural patterns**: These design patterns focus on how objects are composed to form larger structures. Examples include the adapter pattern and the decorator pattern. 🚧 
 
 + **Behavioral patterns**: These design patterns focus on communication between objects and the distribution of responsibility. Examples include the observer pattern and the template method pattern.
 
