@@ -37,7 +37,7 @@ There are several structural design patterns in Python, including:
 
 + **Decorator pattern**: The decorator pattern is a structural design pattern that allows you to add new behavior to existing objects dynamically by wrapping them in decorator objects. ✅
 
-+ **Facade pattern**: The facade pattern is a structural design pattern that provides a simplified interface to a complex system, hiding the complexity behind the facade. 🚧
++ **Facade pattern**: The facade pattern is a structural design pattern that provides a simplified interface to a complex system, hiding the complexity behind the facade. ✅
 
 + **Proxy pattern**: The proxy pattern is a structural design pattern that provides a surrogate or placeholder object for another object and controls access to it. 🚧
 
