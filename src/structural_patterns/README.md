@@ -39,7 +39,7 @@ There are several structural design patterns in Python, including:
 
 + **Facade pattern**: The facade pattern is a structural design pattern that provides a simplified interface to a complex system, hiding the complexity behind the facade. ✅
 
-+ **Proxy pattern**: The proxy pattern is a structural design pattern that provides a surrogate or placeholder object for another object and controls access to it. 🚧
++ **Proxy pattern**: The proxy pattern is a structural design pattern that provides a surrogate or placeholder object for another object and controls access to it. ✅
 
 It is important to note that structural design patterns are not specific to Python, and many of the design patterns described above have counterparts in other programming languages.
 
