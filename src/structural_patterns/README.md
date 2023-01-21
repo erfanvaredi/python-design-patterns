@@ -29,7 +29,7 @@ jupyter notebook
 
 There are several structural design patterns in Python, including:
 
-+ **Adapter pattern**: The adapter pattern is a structural design pattern that allows two incompatible interfaces to work together by wrapping an interface around an existing class. 🚧
++ **Adapter pattern**: The adapter pattern is a structural design pattern that allows two incompatible interfaces to work together by wrapping an interface around an existing class. ✅
 
 + **Bridge pattern**: The bridge pattern is a structural design pattern that separates an abstraction from its implementation, allowing the two to vary independently. 🚧
 
