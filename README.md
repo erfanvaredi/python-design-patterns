@@ -31,13 +31,13 @@ For having scalable and high performance softwares and also easy to reuse codes 
 
 + **Creational patterns**: These design patterns focus on creating objects in a flexible and efficient manner. Examples include the factory pattern and the builder pattern. ✅
 
-+ **Structural patterns**: These design patterns focus on how objects are composed to form larger structures. Examples include the adapter pattern and the decorator pattern. 🚧 
++ **Structural patterns**: These design patterns focus on how objects are composed to form larger structures. Examples include the adapter pattern and the decorator pattern. ✅
 
-+ **Behavioral patterns**: These design patterns focus on communication between objects and the distribution of responsibility. Examples include the observer pattern and the template method pattern.
++ **Behavioral patterns**: These design patterns focus on communication between objects and the distribution of responsibility. Examples include the observer pattern and the template method pattern. 🚧
 
-+ **Concurrency patterns**: :construction: These design patterns focus on managing concurrent access to shared resources. Examples include the thread pool pattern and the producer-consumer pattern. 
++ **Concurrency patterns**: These design patterns focus on managing concurrent access to shared resources. Examples include the thread pool pattern and the producer-consumer pattern. 🚧
 
-+ **GoF (Gang Of Four)**: :construction:
++ **GoF (Gang Of Four)**: 🚧 
 
 ## Contributing
 
